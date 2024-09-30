@@ -1,5 +1,4 @@
 # vehicle-collision-using-opencv
-# Vehicle Cut-In Detection - The Hawks
 
 ## Project Summary
 
